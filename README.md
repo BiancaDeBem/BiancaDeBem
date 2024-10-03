@@ -6,7 +6,7 @@ Snake Game
 https://www.youtube.com/watch?v=MZT37vCQ-4Y
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&left=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Victor+Chrisosthemos;I+am+a+Science+Computer+Student;Be+Welcome!+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED9FFA&size=35&left=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Victor+Chrisosthemos;I+am+a+Science+Computer+Student;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 
 <!--
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 - 📫 How to reach me: bianca.bem04@gmail.com
   
 <div>
-  <a href="https://github.com/victorhugochrisosthemos">
+  <a href="https://github.com/BiancaDeBem">
     <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&theme=tokyonight">
     -->
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 </div>
  
 <div> <br>
-  <a href="https://www.linkedin.com/in/victor-c-6a9081b0/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/bianca-m-577b98270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 
