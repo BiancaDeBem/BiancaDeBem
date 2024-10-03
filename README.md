@@ -13,9 +13,10 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 ### Hi, I'm Bianca Martins 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
 -->
 
-- 🔭 I’m currently working on software testing at Seventh
+- 🔭 I’m currently working as a intern on software testing at Seventh
 - 🌱 I’m currently a science computing student at UNIVALI
 - 📫 How to reach me: bianca.bem04@gmail.com
+- 
   
 <div>
   <a href="https://github.com/BiancaDeBem">
@@ -25,7 +26,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
  <!--
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=0d1117" alt="Victor Chrisosthemos github stats" /> 
    -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugochrisosthemos&hide_progress=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaDeBem&hide_progress=true&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
