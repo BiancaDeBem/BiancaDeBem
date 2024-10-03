@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 - 🔭 I’m currently working as a intern on software testing at Seventh
 - 🌱 I’m currently a science computing student at UNIVALI
 - 📫 How to reach me: bianca.bem04@gmail.com
-- 
+  <!-- colocar um testinho aqui sobre mim -->
   
 <div>
   <a href="https://github.com/BiancaDeBem">
